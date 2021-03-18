@@ -9,7 +9,7 @@ int main(){//Main Function Body
     
     printf("Enter an integer: ");//Print Function Calling
     
-    scanf("%d", &num);//taking user input in integer data type
+    scanf("%d", &num);//Taking user input in integer data type
 	//Using If Else condition
     if(num % 2 == 0)
     
