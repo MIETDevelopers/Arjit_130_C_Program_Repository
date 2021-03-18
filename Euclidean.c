@@ -7,19 +7,19 @@
 int main()//main function body
 {
    float x1, y1, x2, y2, x, y, distance;//Declaration of data type for variables x,y,x1,x2,y1,y2 and distance
-   // taking first  point's coordinates
+   // Taking first  point's coordinates
    printf("Enter first point: \n");
-   scanf("%f %f",&x1, &y1);//taking user input in float data type
-   // taking second point's coordinates
+   scanf("%f %f",&x1, &y1);//Taking user input in float data type
+   // Taking second point's coordinates
    printf("Enter second point: \n");
-   scanf("%f %f",&x2, &y2);//taking user input in float data type
+   scanf("%f %f",&x2, &y2);//Taking user input in float data type
 
-   x = (x2-x1);//assigning a value to declared variable x
-   y = (y2-y1);//assigning a value to declared variable y
+   x = (x2-x1);//Assigning a value to declared variable x
+   y = (y2-y1);//Assigning a value to declared variable y
 
-   distance = sqrt(x*x + y*y);//formula of distance between two points
+   distance = sqrt(x*x + y*y);//Formula of distance between two points
 
-   // display result
+   // Display result
    printf("Distance = %f", distance);
 
    return 0;
