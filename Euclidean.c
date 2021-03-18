@@ -6,7 +6,7 @@
 #include<math.h>
 int main()//main function body
 {
-   float x1, y1, x2, y2, x, y, distance;//Declearation of data type for variables x,y,x1,x2,y1,y2 and distance
+   float x1, y1, x2, y2, x, y, distance;//Declaration of data type for variables x,y,x1,x2,y1,y2 and distance
    // taking first  point's coordinates
    printf("Enter first point: \n");
    scanf("%f %f",&x1, &y1);//taking user input in float data type
@@ -14,8 +14,8 @@ int main()//main function body
    printf("Enter second point: \n");
    scanf("%f %f",&x2, &y2);//taking user input in float data type
 
-   x = (x2-x1);//assigning a value to decleared variable x
-   y = (y2-y1);//assigning a value to decleared variable y
+   x = (x2-x1);//assigning a value to declared variable x
+   y = (y2-y1);//assigning a value to declared variable y
 
    distance = sqrt(x*x + y*y);//formula of distance between two points
 
