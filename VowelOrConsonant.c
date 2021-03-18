@@ -6,7 +6,7 @@
 int main(){
     char c;//Declaring a variable c of datatype char
     int lowercase_vowel, uppercase_vowel;//Declaring variables lowercase_vowel, uppercase_vowel of datatype int
-    printf("Enter an alphabet: ");//Print f function calling
+    printf("Enter an alphabet: ");
     scanf("%c", &c);//Taking user input in char data type
 
     //Evaluates to 1 if variable c is a lowercase vowel
