@@ -1,7 +1,7 @@
 
 //Author:Arjit Manhas
 //Creation Date:17/3/2021
-//Last Modification:17/3/2021
+//Last Modification:183/21
 //Purpose of the program:To check Area and Perimeter of Circle, Square and Rectangle
 #include <stdio.h>
 	int main(){
@@ -16,4 +16,8 @@
 		printf("Perimeter of Square=%f\n",PerimeterOfSquare);//Printing the value for perimeter of sqaure
 
 		return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9ae423a9486a1e358a7a084f941cac315c1d8e10
