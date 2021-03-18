@@ -6,10 +6,10 @@
 
 int main(){
 
-	int a, b, sum;
+	int a, b, sum;//Declaration of variables and data type 
 	printf("\n enter numbers: ");
-	scanf("%d %d", &a, &b);
-	sum = a+b;
-	printf("sum : %d", sum);
+	scanf("%d %d", &a, &b);//Taking user input in int data type
+	sum = a+b;//Formula for sum of two numbers
+	printf("sum : %d", sum);//Print f function calling
 	return 0;
 }
