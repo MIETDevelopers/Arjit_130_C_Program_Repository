@@ -4,7 +4,7 @@
 //Purpose of the program:To check whether number input by user is prime or not
 #include<stdio.h>
 
-int main(){//main function body
+int main(){//Main function body
 
 	int n,i, count=0;//Declearation of data type for variables n and i 
 
