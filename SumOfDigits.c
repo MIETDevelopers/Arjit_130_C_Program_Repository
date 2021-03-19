@@ -20,4 +20,8 @@
     	printf("Sum of digits of %d = %d\n", num, sum);//Print Function Calling
 
     	return 0;//Return Satement
+<<<<<<< HEAD
 	}
+=======
+	}
+>>>>>>> a7ec218788eb2ad0e34ae9925178219a3cbbf4be

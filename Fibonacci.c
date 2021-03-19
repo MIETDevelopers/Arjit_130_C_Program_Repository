@@ -18,4 +18,8 @@
             t2 = nextTerm;		
         }
     return 0;//Return Statement
+<<<<<<< HEAD
     }
+=======
+    }
+>>>>>>> a7ec218788eb2ad0e34ae9925178219a3cbbf4be
