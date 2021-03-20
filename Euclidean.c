@@ -4,8 +4,7 @@
 //Purpose of the program:To find the Euclidean distance between two points in a plane
 #include<stdio.h>
 #include<math.h>
-int main()//main function body
-{
+int main(){//main function body
    float x1, y1, x2, y2, x, y, distance;//Declaration of data type for variables x,y,x1,x2,y1,y2 and distance
    // Taking first  point's coordinates
    printf("Enter first point: \n");
