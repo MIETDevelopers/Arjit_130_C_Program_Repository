@@ -27,4 +27,8 @@
             printf("%d isn't present in the array.\n", search);//printing output if req element isn't found
 
         return 0;//Return statement
+<<<<<<< HEAD
       }
+=======
+      }
+>>>>>>> fb92279319f09e466a56d6498881a40bd6417583
