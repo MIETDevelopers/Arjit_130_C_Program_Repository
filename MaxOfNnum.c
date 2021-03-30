@@ -19,9 +19,5 @@
 		printf("Largest element = %.2f", arr[0]);//Printf Function Calling   
 
 		return 0;		
-
-<<<<<<< HEAD
-	} 
-=======
 	} 
 
