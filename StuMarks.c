@@ -26,3 +26,4 @@ int main(){
 
 	printf("student's (with rollNumber: %d) total marks=%f",marks.rollNo,marks.total);
 	return 0;
+	)
