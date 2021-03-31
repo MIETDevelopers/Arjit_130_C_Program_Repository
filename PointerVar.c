@@ -1,3 +1,8 @@
+
+//Author: Arjit manhas
+//Creation Date:22/3/2021
+//Last Modification:22/3/2021
+//Purpose of the program : pointer variable initialization with the address of another variable and then prints normal variable value and its address using pointer variable
 #include <stdio.h>
 
 int main()
