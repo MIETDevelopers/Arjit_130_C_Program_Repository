@@ -19,5 +19,4 @@ int main()
    fclose(fptr);
 
    return 0;
->>>>>>> 09c92c853b14b712be994f159b5d29af080cec4f
 }
