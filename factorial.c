@@ -15,4 +15,4 @@
   		printf("Factorial of %d is: %d",num,f);//Printf function calling
   		
   		return 0;
-}
+	}

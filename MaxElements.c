@@ -22,4 +22,4 @@
 		printf("Largest element = %.2f", arr[0]);//Printing the largest value
 
 		return 0;//Return statement
-		}
+	}
