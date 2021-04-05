@@ -1,4 +1,4 @@
-//A C program to Program for reading and writing the student marks data to files.				© Ishav Verma 21/March/2021
+//A C program to Program for reading and writing the student marks data to files.				
 #include <stdio.h>
 #include <stdlib.h>
 struct s {
