@@ -1,4 +1,4 @@
-//A C Program to store information of a student using union.          © Ishav Verma 20/March/2021
+//A C Program to store information of a student using union.        
 #include <stdio.h>
 #include <string.h>
  
