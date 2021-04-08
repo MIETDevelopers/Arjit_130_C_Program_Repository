@@ -18,8 +18,5 @@
             t2 = nextTerm;		
         }
     return 0;//Return Statement
-<<<<<<< HEAD
-    }
-=======
     }
 
