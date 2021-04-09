@@ -14,8 +14,8 @@ int main(){
 		for (i = 1; i < 5; ++i)
 		{
 			//Determing the largest value.
-    	if (arr[0] < arr[i])
-        	arr[0] = arr[i];
+    	if (arrMax < arr[i])
+        	arrMax = arr[i];
 		}
 	printf("Largest element = %.2f", arr[0]);//Printing the largest value.
 
