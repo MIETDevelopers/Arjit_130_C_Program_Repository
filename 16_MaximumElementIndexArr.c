@@ -1,23 +1,32 @@
 //A C Program to find the largest number in a user entered array.
-#include<stdio.h>
-int main(){
-	int i;
-	float arr[5];
-
-	printf("Please enter five numbers:\n ");
-
-	for (i = 0; i < 5; ++i) //Using for loop.
-	{
-    scanf("%f", &arr[i]);//Scanning the user entered values.
-	}
-
-		for (i = 1; i < 5; ++i)
-		{
-			//Determing the largest value.
-    	if (arrMax < arr[i])
-        	arrMax = arr[i];
-		}
-	printf("Largest element = %.2f", arr[0]);//Printing the largest value.
-
-	return 0;
+#include <stdio.h>
+ 
+int main()
+{
+ 
+        int size, i, largest;
+ 
+        printf("\n Enter the size of the array: ");
+        scanf("%d", &size);
+        int array[size];
+ 
+        printf("\n Enter %d elements of  the array: \n", size);
+ 
+        for (i = 0; i < size; i++)
+        {   
+            scanf("%d", &array[i]);
+        }
+ 
+        largest = array[0];
+ 
+        for (i = 1; i < size; i++) 
+        {
+            if (largest < array[i])
+            largest = array[i];
+        }
+ 
+        printf("\n largest element present in the given array is : %d", largest);
+ 
+        return 0;
+ 
 }
